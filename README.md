@@ -1,3 +1,11 @@
+---
+title: Recommender System
+emoji: 🛍️
+colorFrom: blue
+colorTo: indigo
+sdk: gradio
+app_file: scripts/app.py
+---
 ![Recomm](assets/banner.png)
 [![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)](https://www.python.org/)[![PyTorch](https://img.shields.io/badge/PyTorch-2.7.1-EE4C2C?logo=pytorch)](https://pytorch.org/)![Made with ML](https://img.shields.io/badge/Made%20with-ML-blueviolet?logo=openai)[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
