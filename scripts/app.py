@@ -27,7 +27,7 @@ def load_artifacts():
     print("--- Loading all artifacts for the Gradio app ---")
     
     # HF-FRIENDLY: Path is relative, assuming the checkpoint is in the root of the Space repo.
-    CHECKPOINT_PATH = "sasrec-epoch=05-val_hitrate@10=0.3614.ckpt"
+    CHECKPOINT_PATH = "checkpoints/sasrec-epoch=06-val_hitrate@10=0.3629.ckpt"
     DATA_FOLDER = "data/"
 
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
