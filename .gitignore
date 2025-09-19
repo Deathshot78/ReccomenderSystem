@@ -7,7 +7,6 @@ venv/
 .venv/
 
 # Data and Logs 
-data/
 logs/
 notebooks/data/
 notebooks/logs/
