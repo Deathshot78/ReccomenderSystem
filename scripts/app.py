@@ -3,7 +3,7 @@ import torch
 import numpy as np
 import pandas as pd
 from datetime import datetime, timedelta
-from models import SASRec, SASRecDataModule
+from models import SASRec
 from data_prepare import SASRecDataset, SASRecDataModule, prepare_data
 from utils import load_item_properties, load_category_tree, get_popular_items
 
