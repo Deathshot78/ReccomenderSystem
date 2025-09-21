@@ -5,7 +5,7 @@
 
 This project implements and evaluates a series of recommender system models, culminating in a state-of-the-art **SASRec (Self-Attentive Sequential Recommendation)** model for Top-N next-item prediction. The system is trained on the [RetailRocket e-commerce dataset](https://www.kaggle.com/datasets/retailrocket/ecommerce-dataset) and includes an interactive web demo built with Gradio.  
 
-![Gradio app](assets/gradio.png)
+![Gradio app](assets/gradio.jpg)
 You can find the Gradio app [Here](https://huggingface.co/spaces/Deathshot78/RecommenderSystem)
 
 ---
